@@ -1,20 +1,11 @@
 # BD-08
 
+![SHANto GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark-Cyber-07&show_icons=true&theme=radical)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Cyber-07&layout=compact)](https://github.com/Dark-Cyber-07)
+<br>
 
-
-<p align="center">
-<a href="https://github.com/Dark-Cyber-07"><img title="D A R K C Y B E R " src="https://github-readme-stats.vercel.app/api?username=SHANTO&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-</p>
-
-
-<p align="center">
-<a href="#"><img title="succeed" src="https://img.shields.io/badge/deobfuscating-succeed-green?colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<br/><br/>
-
-<h1 align="center">BD-08V1</h1>
-<p align="center">      ACCOUNT CLONER FOR TERMUX USERS</p>
-
+#
 ## ***About BD-08 V1***:
 
 BD-06 is a python based cloning script. You can clone unlimited Bangladeshi facebook accounts by using this tool. This tool works on any Android devices without root.
